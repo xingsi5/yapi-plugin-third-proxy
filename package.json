@@ -1,10 +1,14 @@
 {
-  "name": "yapi-plugin-proxy-jkdh",
+  "name": "yapi-plugin-third-proxy",
   "version": "1.0.0",
-  "description": "",
+  "description": "yapi访问第三方服务插件",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingsi5/yapi-plugin-third-proxy.git"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
